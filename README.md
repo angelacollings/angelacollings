@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelacollings
 - 👀 I’m interested in learning new things and problem solving.
-- 🌱 I’m currently learning about application security.
+- 🌱 I’m currently learning about mobile application development.
 - 💞️ I’m looking to collaborate on on any projects, big or small.
 - 📫 How to reach me 
   -  https://www.linkedin.com/in/angelacollings/
