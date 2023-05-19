@@ -5,7 +5,7 @@
 ### :woman_technologist: About Me :
 Junior Software Developer
 - 👀 I’m interested in technological improvement, problem solving and making a difference.
-- 🌱 I’m currently learning about Ruby.
+- 🌱 I’m currently learning Wordpress.
 - 📫 How to reach me 
    - <a href="https://www.linkedin.com/in/angelacollings"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
