@@ -10,6 +10,25 @@ I have a New Zealand Diploma in Software Development (Level 6). Before moving in
 
 Recently, I've been focusing on full-stack development through hands-on projects. I use GitHub Copilot and Codex to support my development process, while taking time to understand the code, make technical decisions, and keep learning.
 
+## 🌱 Featured projects
+
+### [BinRun](https://github.com/angelacollings/binrun)
+
+An ongoing full-stack development project for a subscription-based bin set-out and return service, with optional bin cleaning.
+
+**Built with:** Next.js, TypeScript, MySQL, Prisma
+
+- **Implemented in the repository:** Account registration and login, package selection at signup, and a customer dashboard for adding, updating, and deactivating properties.
+- **Planned:** Subscription billing and online payments through Stripe.
+
+### [Data Detox](https://github.com/angelacollings/data-detox)
+
+A business website for a real estate database reactivation service. It presents the services and client testimonials, with a contact form connected to a PHP backend for validating and emailing enquiries.
+
+**Built with:** React, Vite, PHP
+
+[Visit the website](https://datadetox.co.nz)
+
 ## 🛠️ Technologies I work with
 
 A mix of professional experience and tools I'm using in recent projects—I'm continuing to build my skills across the stack.
@@ -30,23 +49,6 @@ A mix of professional experience and tools I'm using in recent projects—I'm co
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js
 - **Backend and databases:** Node.js, PHP, MySQL, PostgreSQL, Prisma
 - **Tools and platforms:** WordPress, Git, GitHub, Stripe, SiteHost, GitHub Copilot, Codex
-
-## 🌱 Featured projects
-
-### [BinRun](https://github.com/angelacollings/binrun)
-
-An ongoing full-stack project for a subscription-based bin set-out and return service, with optional bin cleaning.
-
-**Built with:** Next.js, TypeScript, MySQL, Prisma
-
-- **Implemented in the repository:** Account registration and login, package selection at signup, and a customer dashboard for adding, updating, and deactivating properties.
-- **Planned:** Subscription billing and online payments through Stripe.
-
-### [Data Detox](https://github.com/angelacollings/data-detox)
-
-A business website for a real estate database reactivation service. It presents the services and client testimonials, with a contact form connected to a PHP backend for validating and emailing enquiries.
-
-**Built with:** React, Vite, PHP
 
 ## Let's connect
 
